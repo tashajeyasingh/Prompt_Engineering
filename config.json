@@ -1,0 +1,6 @@
+{
+    "OPENAI_API_BASE":"https://<Your Azure Resource Name>.openai.azure.com",
+    "OPENAI_API_KEY":"<OpenAI API Key>",
+    "OPENAI_API_VERSION":"<OpenAI API Version>",
+    "GPT_MODEL":"<GPT Model Deployment Name>"
+}
